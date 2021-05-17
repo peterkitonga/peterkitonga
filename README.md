@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Peter Kitonga and I love to build stuff.
+
 ### ⚙️ &nbsp;GitHub analytics
 
 <p>
