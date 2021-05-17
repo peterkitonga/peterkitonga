@@ -18,4 +18,5 @@ My name is Peter Kitonga and I love to build stuff.
 <img align="left" alt="Vue" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue-dot-js&style=for-the-badge&logoColor=white" />
 <img align="left" alt="SASS/SCSS" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&style=for-the-badge&logoColor=white" />
 <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" />
-<img align="left" alt="Docker" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&style=for-the-badge&logoColor=white" />
+<img align="left" alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&style=for-the-badge&logoColor=white" />
+<img align="left" alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&style=for-the-badge&logoColor=white" />
