@@ -9,7 +9,7 @@
 </a>
 </p>
 
-## Technologies I use
+### Technologies I use
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=white" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&style=for-the-badge&logoColor=white" />
 <img align="left" alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" />
