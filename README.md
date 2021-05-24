@@ -1,4 +1,5 @@
-### Hi there 👋 Peter Kitonga here
+### Hi there 👋 Peter Kitonga here <img align="right" src="https://komarev.com/ghpvc/?username=peterkitonga&color=brightgreen&style=flat-square"/>
+
 
 I love to learn and build stuff. I am currently learning alot about Node.js and its awesomeness. Want to connect? Hit me up on:
 
