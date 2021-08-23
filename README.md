@@ -48,4 +48,5 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
 
 <div>
   <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" />
+  <img align="left" alt="Travis CI" src="https://img.shields.io/badge/TravisCI-3EAAAF?logo=travisci&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
