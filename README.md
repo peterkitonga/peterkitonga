@@ -23,9 +23,9 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
 
 <div>
   <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black" />
-  <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&style=for-the-badge&logoColor=white" />
+  <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge&logoColor=white" />
   <img align="left" alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" />
-  <img align="left" alt="Vue" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue-dot-js&style=for-the-badge&logoColor=white" />
+  <img align="left" alt="Vue" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=white" />
   <img align="left" alt="SASS/SCSS" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
 
