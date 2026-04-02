@@ -13,7 +13,6 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
 
 <div>
   <img height="180em" src="https://github-readme-stats-lac-mu.vercel.app/api?username=peterkitonga&show_icons=true&count_private=true&hide_border=true&theme=vue-dark"/>
-  <img height="180em" src="https://github-readme-stats-lac-mu.vercel.app/api/top-langs/?username=peterkitonga&layout=compact&langs_count=8&hide_border=true&theme=vue-dark"/>
 </div>&nbsp;
 
 ### Languages
