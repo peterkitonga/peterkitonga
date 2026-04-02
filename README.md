@@ -4,9 +4,7 @@
 I love to learn and build stuff. I am currently learning alot about Node.js and its awesomeness. Want to connect? Hit me up on:
 
 <div>
-  <a href="https://www.linkedin.com/in/kitongangugi/">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
-  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/kitongangugi/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" /></a>
 </div>
 
 ### ⚙️ &nbsp;GitHub analytics
