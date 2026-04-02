@@ -13,7 +13,7 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
   <img height="180em" src="https://github-readme-stats-lac-mu.vercel.app/api?username=peterkitonga&show_icons=true&count_private=true&hide_border=true&theme=vue-dark"/>
 </div>&nbsp;
 
-### Languages
+### Languages & Frameworks
 
 <div>
   <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black" />
@@ -21,6 +21,7 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
   <img align="left" alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" />
   <img align="left" alt="Vue" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=white" />
   <img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&style=for-the-badge&logoColor=white" />
+  <img align="left" alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white" />
   <img align="left" alt="SASS/SCSS" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
 
@@ -35,15 +36,14 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
 ### Design apps
 
 <div>
-  <img align="left" alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&style=for-the-badge&logoColor=white" />
-  <img align="left" alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&style=for-the-badge&logoColor=white" />
+  <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=white" />
   <img align="left" alt="Adobe XD" src="https://img.shields.io/badge/AdobeXD-FF61F6?logo=adobexd&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
 
-### DevOps
+### CI/CD
 
 <div>
   <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" />
-  <img align="left" alt="Travis CI" src="https://img.shields.io/badge/TravisCI-3EAAAF?logo=travisci&style=for-the-badge&logoColor=white" />
+  <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white" />
   <img align="left" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
