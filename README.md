@@ -22,7 +22,6 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
   <img align="left" alt="Vue" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=white" />
   <img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&style=for-the-badge&logoColor=white" />
   <img align="left" alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white" />
-  <img align="left" alt="SASS/SCSS" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
 
 ### Databases
