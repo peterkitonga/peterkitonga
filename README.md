@@ -36,7 +36,7 @@
 
 <h3 align="center">Design apps</h3>
 
-<div style="display: flex;flex-flow: row wrap; justify-content: center; gap: 12px;">
+<div align="center">
   <img height="30px" alt="Figma" src="assets/figma.svg" />
   <img height="30px" alt="GIMP" src="assets/gimp.svg" />
 </div>&nbsp;
