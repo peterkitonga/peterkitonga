@@ -1,4 +1,4 @@
-### Hi there 👋 Peter Kitonga here
+<h3 align="center">Hi there 👋 Peter Kitonga here</h3>
 
 
 I love to learn and build stuff. I am currently learning alot about Node.js and its awesomeness. Want to connect? Hit me up on:
@@ -7,14 +7,14 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
   <a href="https://www.linkedin.com/in/kitongangugi/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" /></a>
 </div>
 
-### ⚙️ &nbsp;GitHub analytics
+<h3 align="center">⚙️ &nbsp;GitHub analytics</h3>
 
 <div>
-  <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=peterkitonga&count_private=true&hide_border=true&theme=vue-dark" alt="peterkitonga" />
-  <img height="auto" src="https://github-readme-stats-lac-mu.vercel.app/api?username=peterkitonga&show_icons=true&count_private=true&hide_border=true&theme=vue-dark"/>
+  <img width="100%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=peterkitonga&count_private=true&hide_border=true&theme=vue-dark" alt="peterkitonga" />
+  <img width="100%" height="180em" src="https://github-readme-stats-lac-mu.vercel.app/api?username=peterkitonga&show_icons=true&count_private=true&hide_border=true&theme=vue-dark"/>
 </div>&nbsp;
 
-### Languages & Frameworks
+<h3>Languages & Frameworks</h3>
 
 <div>
   <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black" />
@@ -25,7 +25,7 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
   <img align="left" alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
 
-### Databases
+<h3>Databases</h3>
 
 <div>
   <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&style=for-the-badge&logoColor=white" />
@@ -33,14 +33,14 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
   <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
 
-### Design apps
+<h3>Design apps</h3>
 
 <div>
   <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=white" />
   <img align="left" alt="Adobe XD" src="https://img.shields.io/badge/AdobeXD-FF61F6?logo=adobexd&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
 
-### CI/CD
+<h3>CI/CD</h3>
 
 <div>
   <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" />
