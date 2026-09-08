@@ -25,6 +25,7 @@
   <img height="30px" alt="Vue" src="assets/vuejs.svg" />
   <img height="30px" alt="Angular" src="assets/angular.svg" />
   <img height="30px" alt="Tailwind CSS" src="assets/tailwind.svg" />
+  <img height="30px" alt="Golang" src="assets/golang.svg" />
 </div>&nbsp;
 
 <h3 align="center">Databases</h3>
