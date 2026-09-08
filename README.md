@@ -10,8 +10,8 @@ I love to learn and build stuff. I am currently learning alot about Node.js and 
 ### ⚙️ &nbsp;GitHub analytics
 
 <div>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=peterkitonga&count_private=true&hide_border=true&theme=vue-dark" alt="peterkitonga" />
-  <img height="180em" src="https://github-readme-stats-lac-mu.vercel.app/api?username=peterkitonga&show_icons=true&count_private=true&hide_border=true&theme=vue-dark"/>
+  <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=peterkitonga&count_private=true&hide_border=true&theme=vue-dark" alt="peterkitonga" />
+  <img height="auto" src="https://github-readme-stats-lac-mu.vercel.app/api?username=peterkitonga&show_icons=true&count_private=true&hide_border=true&theme=vue-dark"/>
 </div>&nbsp;
 
 ### Languages & Frameworks
