@@ -19,8 +19,9 @@
 
 <div align="center">
   <img height="30px" alt="JavaScript" src="assets/javascript.svg" />
-  <img height="30px" alt="Node.js" src="assets/nodejs.svg" />
   <img height="30px" alt="Typescript" src="assets/typescript.svg" />
+  <img height="30px" alt="Node.js" src="assets/nodejs.svg" />
+  <img height="30px" alt="React.js" src="assets/reactjs.svg" />
   <img height="30px" alt="Vue" src="assets/vuejs.svg" />
   <img height="30px" alt="Angular" src="assets/angular.svg" />
   <img height="30px" alt="Tailwind CSS" src="assets/tailwind.svg" />
