@@ -4,8 +4,8 @@
 <p align="center">I love to learn and build stuff. I am currently learning alot about React.js and Golang. Want to connect? Hit me up on:</p>
 
 <div align="center">
-  <a href="mailto:pkitonga.pk@gmail.com?subject=Feedback%20From%20Github&body=Hello,"><img  height="30px" alt="Mail" title="Gmail" src="assets/gmail.svg"/></a>
-  <a href="https://www.linkedin.com/in/kitongangugi/"><img  height="30px" alt="Social" title="Linkedin" src="assets/linkedin.svg" /></a>
+  <a href="mailto:pkitonga.pk@gmail.com?subject=Feedback%20From%20Github&body=Hello,"><img  height="30px" alt="Mail" title="Gmail" src="./assets/gmail.svg"/></a>
+  <a href="https://www.linkedin.com/in/kitongangugi/"><img  height="30px" alt="Social" title="Linkedin" src="./assets/linkedin.svg" /></a>
 </div>
 
 <h3 align="center">⚙️ &nbsp;GitHub analytics</h3>
@@ -18,35 +18,35 @@
 <h3 align="center">Languages & Frameworks</h3>
 
 <div align="center">
-  <img height="30px" alt="JavaScript" src="assets/javascript.svg" />
-  <img height="30px" alt="Typescript" src="assets/typescript.svg" />
-  <img height="30px" alt="Node.js" src="assets/nodejs.svg" />
-  <img height="30px" alt="React.js" src="assets/reactjs.svg" />
-  <img height="30px" alt="Vue" src="assets/vuejs.svg" />
-  <img height="30px" alt="Angular" src="assets/angular.svg" />
-  <img height="30px" alt="Tailwind CSS" src="assets/tailwind.svg" />
-  <img height="30px" alt="Golang" src="assets/golang.svg" />
+  <img height="30px" alt="JavaScript" src="./assets/javascript.svg" />
+  <img height="30px" alt="Typescript" src="./assets/typescript.svg" />
+  <img height="30px" alt="Node.js" src="./assets/nodejs.svg" />
+  <img height="30px" alt="React.js" src="./assets/reactjs.svg" />
+  <img height="30px" alt="Vue" src="./assets/vuejs.svg" />
+  <img height="30px" alt="Angular" src="./assets/angular.svg" />
+  <img height="30px" alt="Tailwind CSS" src="./assets/tailwind.svg" />
+  <img height="30px" alt="Golang" src="./assets/golang.svg" />
 </div>&nbsp;
 
 <h3 align="center">Databases</h3>
 
 <div align="center">
-  <img height="30px" alt="MySQL" src="assets/mysql.svg" />
-  <img height="30px" alt="PostgreSQL" src="assets/postgresql.svg" />
-  <img height="30px" alt="MongoDB" src="assets/mongodb.svg" />
+  <img height="30px" alt="MySQL" src="./assets/mysql.svg" />
+  <img height="30px" alt="PostgreSQL" src="./assets/postgresql.svg" />
+  <img height="30px" alt="MongoDB" src="./assets/mongodb.svg" />
 </div>&nbsp;
 
 <h3 align="center">Design apps</h3>
 
 <div align="center">
-  <img height="30px" alt="Figma" src="assets/figma.svg" />
-  <img height="30px" alt="GIMP" src="assets/gimp.svg" />
+  <img height="30px" alt="Figma" src="./assets/figma.svg" />
+  <img height="30px" alt="GIMP" src="./assets/gimp.svg" />
 </div>&nbsp;
 
 <h3 align="center">CI/CD</h3>
 
 <div align="center">
-  <img height="30px" alt="Docker" src="assets/docker.svg" />
-  <img height="30px" alt="Kubernetes" src="assets/kubernetes.svg" />
-  <img height="30px" alt="Jenkins" src="assets/jenkins.svg" />
+  <img height="30px" alt="Docker" src="./assets/docker.svg" />
+  <img height="30px" alt="Kubernetes" src="./assets/kubernetes.svg" />
+  <img height="30px" alt="Jenkins" src="./assets/jenkins.svg" />
 </div>&nbsp;
