@@ -4,8 +4,8 @@
 <p align="center">I love to learn and build stuff. I am currently learning alot about React.js and Golang. Want to connect? Hit me up on:</p>
 
 <div align="center">
-  <a href="mailto:pkitonga.pk@gmail.com?subject=Feedback%20From%20Github&body=Hello,"><img  height="30px" alt="Mail" title="Gmail" src="./assets/gmail.svg"/></a>
-  <a href="https://www.linkedin.com/in/kitongangugi/"><img  height="30px" alt="Social" title="Linkedin" src="./assets/linkedin.svg" /></a>
+  <a href="mailto:pkitonga.pk@gmail.com?subject=Feedback%20From%20Github&body=Hello,"><img  height="30px" alt="Gmail" title="Gmail" src="./assets/gmail.svg"/></a>
+  <a href="https://www.linkedin.com/in/kitongangugi/"><img  height="30px" alt="Linkedin" title="Linkedin" src="./assets/linkedin.svg" /></a>
 </div>
 
 <h3 align="center">⚙️ &nbsp;GitHub analytics</h3>
