@@ -1,14 +1,19 @@
-<h3 align="center">Hi there 👋 Peter Kitonga here</h3>
+<h3 align="center">Hi there 👋, am Peter</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=peterkitonga&style=for-the-badge&color=brightgreen&label=PEOPLE+WATCHING" />
+</p>
 
-<p align="center">I love to learn and build stuff. I am currently learning alot about React.js and Golang. Want to connect? Hit me up on:</p>
+<p align="center">I swear...all my pipelines are green. 🫣 Get it? Never deploy on a Friday, don't ask me why. 🫠</p>
+
+<p align="center">Want to connect? Hit me up on:</p>
 
 <div align="center">
-  <a href="mailto:pkitonga.pk@gmail.com?subject=Feedback%20From%20Github&body=Hello,"><img  height="30px" alt="Gmail" title="Gmail" src="./assets/gmail.svg"/></a>
-  <a href="https://www.linkedin.com/in/kitongangugi/"><img  height="30px" alt="Linkedin" title="Linkedin" src="./assets/linkedin.svg" /></a>
+  <a href="mailto:pkitonga.pk@gmail.com?subject=Feedback%20From%20Github&body=Hello,"><img height="30px" alt="Gmail" title="Gmail" src="./assets/gmail.svg"/></a>
+  <a href="https://www.linkedin.com/in/kitongangugi/"><img height="30px" alt="Linkedin" title="Linkedin" src="./assets/linkedin.svg" /></a>
 </div>
 
-<h3 align="center">⚙️ &nbsp;GitHub analytics</h3>
+<h3 align="center">🚀 &nbsp;Status Window</h3>
 
 <div>
   <img width="100%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=peterkitonga&count_private=true&hide_border=true&theme=vue-dark" alt="peterkitonga" />
