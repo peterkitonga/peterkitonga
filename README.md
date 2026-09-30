@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=peterkitonga&style=for-the-badge&color=brightgreen&label=PEOPLE+WATCHING" />
 </p>
 
-<p align="center">I swear...all my pipelines are green. 🫣 Get it? Never deploy on a Friday, don't ask me why. 🫠</p>
+<p align="center">I swear...all my pipelines are green. 🫣 Get it? Never deploy on a Friday, learnt that the hard way. 🫠</p>
 
 <p align="center">Want to connect? Hit me up on:</p>
 
@@ -23,35 +23,35 @@
 <h3 align="center">Languages & Frameworks</h3>
 
 <div align="center">
-  <img height="30px" alt="JavaScript" src="./assets/javascript.svg" />
-  <img height="30px" alt="Typescript" src="./assets/typescript.svg" />
-  <img height="30px" alt="Node.js" src="./assets/nodejs.svg" />
-  <img height="30px" alt="React.js" src="./assets/reactjs.svg" />
-  <img height="30px" alt="Vue" src="./assets/vuejs.svg" />
-  <img height="30px" alt="Angular" src="./assets/angular.svg" />
-  <img height="30px" alt="Tailwind CSS" src="./assets/tailwind.svg" />
-  <img height="30px" alt="Golang" src="./assets/golang.svg" />
+  <a href="https://javascript.info/"><img height="30px" alt="JavaScript" src="./assets/javascript.svg" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img height="30px" alt="Typescript" src="./assets/typescript.svg" /></a>
+  <a href="https://nodejs.org/docs/latest/api/"><img height="30px" alt="Node.js" src="./assets/nodejs.svg" /></a>
+  <a href="https://react.dev/learn"><img height="30px" alt="React.js" src="./assets/reactjs.svg" /></a>
+  <a href="https://vuejs.org/guide/introduction.html"><img height="30px" alt="Vue" src="./assets/vuejs.svg" /></a>
+  <a href="https://angular.dev/overview"><img height="30px" alt="Angular" src="./assets/angular.svg" /></a>
+  <a href="https://tailwindcss.com"><img height="30px" alt="Tailwind CSS" src="./assets/tailwind.svg" /></a>
+  <a href="https://go.dev/doc/effective_go"><img height="30px" alt="Golang" src="./assets/golang.svg" /></a>
 </div>&nbsp;
 
 <h3 align="center">Databases</h3>
 
 <div align="center">
-  <img height="30px" alt="MySQL" src="./assets/mysql.svg" />
-  <img height="30px" alt="PostgreSQL" src="./assets/postgresql.svg" />
-  <img height="30px" alt="MongoDB" src="./assets/mongodb.svg" />
+  <a href="https://dev.mysql.com/doc/"><img height="30px" alt="MySQL" src="./assets/mysql.svg" /></a>
+  <a href="https://www.postgresql.org/docs/"><img height="30px" alt="PostgreSQL" src="./assets/postgresql.svg" /></a>
+  <a href="https://www.mongodb.com/docs/"><img height="30px" alt="MongoDB" src="./assets/mongodb.svg" /></a>
 </div>&nbsp;
 
 <h3 align="center">Design apps</h3>
 
 <div align="center">
-  <img height="30px" alt="Figma" src="./assets/figma.svg" />
-  <img height="30px" alt="GIMP" src="./assets/gimp.svg" />
+  <a href="https://www.figma.com/"><img height="30px" alt="Figma" src="./assets/figma.svg" /></a>
+  <a href="https://www.gimp.org/"><img height="30px" alt="GIMP" src="./assets/gimp.svg" /></a>
 </div>&nbsp;
 
 <h3 align="center">CI/CD</h3>
 
 <div align="center">
-  <img height="30px" alt="Docker" src="./assets/docker.svg" />
-  <img height="30px" alt="Kubernetes" src="./assets/kubernetes.svg" />
-  <img height="30px" alt="Jenkins" src="./assets/jenkins.svg" />
+  <a href="https://docs.docker.com/get-started/"><img height="30px" alt="Docker" src="./assets/docker.svg" /></a>
+  <a href="https://kubernetes.io/docs/home/"><img height="30px" alt="Kubernetes" src="./assets/kubernetes.svg" /></a>
+  <a href="https://www.jenkins.io/doc/"><img height="30px" alt="Jenkins" src="./assets/jenkins.svg" /></a>
 </div>&nbsp;
