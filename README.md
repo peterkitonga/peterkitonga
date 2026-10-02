@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋, am Peter</h3>
+<h3 align="center">Hi there 👋🏾, am Peter</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=peterkitonga&style=for-the-badge&color=brightgreen&label=PEOPLE+WATCHING" />
@@ -45,7 +45,7 @@
   </a>
 </div>&nbsp;
 
-<h3 align="center">Languages & Frameworks</h3>
+<h3 align="center">🛠️ &nbsp;Languages & Frameworks</h3>
 
 <div align="center">
   <a href="https://javascript.info/"><img height="30px" alt="JavaScript" src="./assets/javascript.svg" /></a>
@@ -58,7 +58,7 @@
   <a href="https://go.dev/doc/effective_go"><img height="30px" alt="Golang" src="./assets/golang.svg" /></a>
 </div>&nbsp;
 
-<h3 align="center">Databases</h3>
+<h3 align="center">🗃️ &nbsp;Databases</h3>
 
 <div align="center">
   <a href="https://dev.mysql.com/doc/"><img height="30px" alt="MySQL" src="./assets/mysql.svg" /></a>
@@ -66,14 +66,14 @@
   <a href="https://www.mongodb.com/docs/"><img height="30px" alt="MongoDB" src="./assets/mongodb.svg" /></a>
 </div>&nbsp;
 
-<h3 align="center">Design apps</h3>
+<h3 align="center">✍🏾 &nbsp;Design apps</h3>
 
 <div align="center">
   <a href="https://www.figma.com/"><img height="30px" alt="Figma" src="./assets/figma.svg" /></a>
   <a href="https://www.gimp.org/"><img height="30px" alt="GIMP" src="./assets/gimp.svg" /></a>
 </div>&nbsp;
 
-<h3 align="center">CI/CD</h3>
+<h3 align="center">🚢 &nbsp;CI/CD</h3>
 
 <div align="center">
   <a href="https://docs.docker.com/get-started/"><img height="30px" alt="Docker" src="./assets/docker.svg" /></a>
