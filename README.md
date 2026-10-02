@@ -34,7 +34,7 @@
       <img width="100%" height="190em" src="https://github-stats-extended.vercel.app/api?username=peterkitonga&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=ambient_gradient" alt="peterkitonga" />
     </picture>
   </a>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php,blade,shell,apacheconf,html">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php,blade,shell,apacheconf,html&theme=ambient_gradient">
     <picture>
       <source
         srcset="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php,blade,shell,apacheconf,html&theme=ambient_gradient"
