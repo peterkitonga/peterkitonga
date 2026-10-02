@@ -15,9 +15,34 @@
 
 <h3 align="center">🚀 &nbsp;Status Window</h3>
 
-<div>
-  <img width="100%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=peterkitonga&count_private=true&hide_border=true&theme=vue-dark" alt="peterkitonga" />
-  <img width="100%" height="180em" src="https://github-readme-stats-lac-mu.vercel.app/api?username=peterkitonga&show_icons=true&count_private=true&hide_border=true&theme=vue-dark"/>
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=peterkitonga&short_numbers=true">
+    <picture>
+      <source
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=peterkitonga&count_private=true&hide_border=true&short_numbers=true&theme=ambient-gradient"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img width="100%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=peterkitonga&count_private=true&hide_border=true&short_numbers=true&theme=ambient-gradient" alt="peterkitonga" />
+    </picture>
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api?username=peterkitonga&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api?username=peterkitonga&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=ambient_gradient"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img width="100%" height="190em" src="https://github-stats-extended.vercel.app/api?username=peterkitonga&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=ambient_gradient" alt="peterkitonga" />
+    </picture>
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php,blade,shell,apacheconf,html">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php,blade,shell,apacheconf,html&theme=ambient_gradient"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img width="100%" height="500em" src="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php,blade,shell,apacheconf,html&theme=ambient_gradient" alt="peterkitonga" />
+    </picture>
+  </a>
 </div>&nbsp;
 
 <h3 align="center">Languages & Frameworks</h3>
