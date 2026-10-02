@@ -34,13 +34,13 @@
       <img width="100%" height="190em" src="https://github-stats-extended.vercel.app/api?username=peterkitonga&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=ambient_gradient" alt="peterkitonga" />
     </picture>
   </a>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php,blade,shell,apacheconf,html&theme=ambient_gradient">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php%2Cblade%2Cshell%2Capacheconf%2Chtml">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php,blade,shell,apacheconf,html&theme=ambient_gradient"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php%2Cblade%2Cshell%2Capacheconf%2Chtml&theme=ambient_gradient"
         media="(prefers-color-scheme: dark)"
       />
-      <img width="100%" height="500em" src="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php,blade,shell,apacheconf,html&theme=ambient_gradient" alt="peterkitonga" />
+      <img width="100%" height="500em" src="https://github-stats-extended.vercel.app/api/top-langs?username=peterkitonga&langs_count=11&hide_border=true&hide=php%2Cblade%2Cshell%2Capacheconf%2Chtml&theme=ambient_gradient" alt="peterkitonga" />
     </picture>
   </a>
 </div>&nbsp;
